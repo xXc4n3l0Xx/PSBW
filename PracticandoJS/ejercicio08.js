@@ -11,11 +11,3 @@ buscarTecnologia.addEventListener("input", function () {
 
   dibujarTarjetas(coincidencias);
 });
-
-
-/*
-Utilizando las tecnologías almacenadas en la página, agrega un campo “Buscar tecnología”
-Mientras el usuario escribe, deberán mostrarse únicamente las tecnologías cuyo nombre coincida parcial o totalmente con la búsqueda
-Por ejemplo, escribir “Java” podría mostrar JavaScript y Java
-La búsqueda deberá actualizarse mientras el usuario escribe, sin necesidad de recargar la página
-*/
